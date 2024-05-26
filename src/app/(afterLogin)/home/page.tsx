@@ -12,7 +12,7 @@ export default function home(){
                  <PostForm/>
                  <Post/>
                  <Post/>
-                 <Post/>
+                 <Post/>    
             </TabProvider>           
         </main>
     )
