@@ -1,7 +1,7 @@
-export default function Profile(){
+import Home from "@/app/(beforeLogin)/page";
+
+export default function Page(){
     return (
-        <main>
-            프로필
-        </main>
+        <Home/>
     )
 }

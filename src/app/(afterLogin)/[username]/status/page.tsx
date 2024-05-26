@@ -1,7 +1,6 @@
-export default function Page(){
-    return (
-        <main>
-            게시글상세
-        </main>
-    )
+import style from './profile.module.css';
+import Post from "@/app/(afterLogin)/_component/Post";
+
+export default function Profile() {
+  
 }
